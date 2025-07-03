@@ -1,0 +1,4 @@
+flask==2.0.3
+werkzeug==2.3.8
+flask-restplus==0.13.0
+flask-jwt-extended==4.4.4
